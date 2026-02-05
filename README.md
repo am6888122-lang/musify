@@ -48,8 +48,23 @@ A beautiful and feature-rich music streaming application built with Flutter, fea
 
 ## 📱 Screenshots
 
-> Add your app screenshots here
-
+<div align="center">
+  <img src="screenshots/Screenshot_1770323578.png" width="200" alt="Screenshot 1">
+  <img src="screenshots/Screenshot_1770323615.png" width="200" alt="Screenshot 2">
+  <img src="screenshots/Screenshot_1770323621.png" width="200" alt="Screenshot 3">
+  <img src="screenshots/Screenshot_1770323629.png" width="200" alt="Screenshot 4">
+  <img src="screenshots/Screenshot_1770323644.png" width="200" alt="Screenshot 5">
+  <img src="screenshots/Screenshot_1770323647.png" width="200" alt="Screenshot 6">
+  <img src="screenshots/Screenshot_1770323651.png" width="200" alt="Screenshot 7">
+  <img src="screenshots/Screenshot_1770323660.png" width="200" alt="Screenshot 8">
+  <img src="screenshots/Screenshot_1770323671.png" width="200" alt="Screenshot 9">
+  <img src="screenshots/Screenshot_1770323677.png" width="200" alt="Screenshot 10">
+  <img src="screenshots/Screenshot_1770323692.png" width="200" alt="Screenshot 11">
+  <img src="screenshots/Screenshot_1770323700.png" width="200" alt="Screenshot 12">
+  <img src="screenshots/Screenshot_1770323733.png" width="200" alt="Screenshot 13">
+  <img src="screenshots/Screenshot_1770323762.png" width="200" alt="Screenshot 14">
+  <img src="screenshots/Screenshot_1770323767.png" width="200" alt="Screenshot 15">
+</div>
 ## 🏗️ Architecture
 
 The app follows **Clean Architecture** principles with **MVVM** pattern:
