@@ -1,0 +1,18 @@
+{
+    "dart.flutterSdkPath": null,
+    "dart.lineLength": 100,
+    "dart.showTodos": true,
+    "dart.closingLabels": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "files.associations": {
+        "*.dart": "dart"
+    },
+    "editor.rulers": [80, 100],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100
+}

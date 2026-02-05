@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170981476206",
+    "project_id": "memo-fff3e",
+    "storage_bucket": "memo-fff3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170981476206:android:805118c0b7afeb5999a37f",
+        "android_client_info": {
+          "package_name": "com.example.memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1I1TBCD6kZDPke7Xq2Wbsg_ByUlHb00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170981476206:android:45200dd0cee9c20a99a37f",
+        "android_client_info": {
+          "package_name": "com.example.musify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1I1TBCD6kZDPke7Xq2Wbsg_ByUlHb00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
